@@ -1,5 +1,7 @@
 # Awesome Ubuntu 😎
 
+PS: Tested with Ubuntu 17
+
 ## Theming
 
 * Install gnome tweak (avaliable on Ubuntu Software)
