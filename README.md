@@ -1,6 +1,6 @@
 # Awesome Ubuntu 😎
 
-PS: Tested with Ubuntu 17
+PS: Tested with Ubuntu 17 (Gnome)
 
 ## Theming
 
