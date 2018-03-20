@@ -28,18 +28,17 @@ PS: Tested with Ubuntu 17 (Gnome)
    ```
    $  apt-get install sshpass
    ```
+* Tree
+   ```
+   sudo apt-get install tree
+   ```
+* VSCODE as default text editor
+   ```
+   $ xdg-mime default code.desktop text/plain
+   ```
+
 ## Open VPN
 ```
 sudo apt-get install openvpn network-manager-openvpn-gnome
 ```
 
-## VSCODE as default text editor
-```
-$ xdg-mime default code.desktop text/plain
-```
-
-## Command line
-* Tree
-   ```
-   sudo apt-get install tree
-   ```
