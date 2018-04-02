@@ -1,6 +1,7 @@
 # Awesome Ubuntu 😎
 
 ![A screenshot of Ubuntu Desktop ](images/desktop.png)
+![A screenshot of Ubuntu Desktop ](images/filezilla.png)
 
 PS: Tested with Ubuntu 17 (Gnome)
 
